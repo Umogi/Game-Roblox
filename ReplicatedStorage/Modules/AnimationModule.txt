@@ -1,0 +1,1 @@
+this file is a module script that holds the animations links in a table
